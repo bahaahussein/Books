@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="search_text">search for</string>
+    <string name="search_button">search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
